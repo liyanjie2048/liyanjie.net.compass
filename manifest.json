@@ -1,0 +1,10 @@
+{
+    "name": "Compass",
+    "short_name": "Compass",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "type": "image/png"
+        }
+    ]
+}
